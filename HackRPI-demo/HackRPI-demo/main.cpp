@@ -11,6 +11,7 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
 
+    std::cout << "ive stolen your code :evil:" << std::endl;
     std::list<int> numArr;
 
     //iterate through list
